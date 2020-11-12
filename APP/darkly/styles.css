@@ -1,0 +1,12 @@
+ .quote{
+    text-align: center;
+    align-items: center;
+    background-color: rgba(185, 161, 53, 0.904);
+    box-sizing: border-box;
+    display: block;
+    margin-top:25px;
+    padding: 0;
+    box-shadow: rgb(230, 174, 54);
+    color: white;
+    border-radius: 25px;
+}
